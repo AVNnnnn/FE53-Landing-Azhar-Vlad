@@ -25,7 +25,10 @@ margin-top: 34px;
 }
 
 .card{
-width:350px;
+width: 350px;
+padding: 5px;
+
+
 }
 
 .main-img{
