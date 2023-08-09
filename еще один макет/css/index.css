@@ -1,0 +1,114 @@
+@import url(./aye.css);
+@import url(./cnd.css);
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 16px;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+   
+}
+
+.aye{
+    background-color: #f5f5f5;
+}
+
+.container{
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 15px;
+ }
+
+ .wrapper-title{
+ font-size: 20px;
+ color:black;
+ }
+
+ .money{
+    font-size: 35px;
+    color: black;
+ }
+
+ .free{
+    font-size: 14px;
+    color: gray;
+ }
+
+ .gb{
+    font-size: 14px;
+    color: gray;
+ }
+
+
+ .title{
+    font-family: "Raleway", "Open Sans", "sans serif";
+    font-weight: 400;
+    font-size: 36px;
+    text-transform: uppercase;
+   
+ }
+ .text{
+    font-family: "Open Sans", "Raleway", "sans serif";
+    font-weight: 400;
+ }
+
+ .wrapper-title{
+    font-family:"Open Sans", "Raleway", "sans serif";
+    font-weight: 700;
+    color: #ffffff;
+ }
+
+ .money{
+    font-family: "Raleway", "Open Sans", "sans serif";
+    font-weight: 700;
+    color: #ffffff;
+ }
+
+ .free{
+    font-family:"Open Sans", "Raleway", "sans serif";
+    font-weight: 600;
+    color: #86878b;
+ }
+
+ .gb{
+    font-family: "Open Sans", "Raleway", "sans serif";
+    font-weight: 400;
+    color:#86878b;
+ }
